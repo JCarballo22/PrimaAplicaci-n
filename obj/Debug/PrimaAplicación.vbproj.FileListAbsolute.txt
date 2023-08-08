@@ -1,0 +1,12 @@
+C:\Users\Carba\source\repos\PrimaAplicación\bin\Debug\PrimaAplicación.exe.config
+C:\Users\Carba\source\repos\PrimaAplicación\bin\Debug\PrimaAplicación.exe
+C:\Users\Carba\source\repos\PrimaAplicación\bin\Debug\PrimaAplicación.pdb
+C:\Users\Carba\source\repos\PrimaAplicación\bin\Debug\PrimaAplicación.xml
+C:\Users\Carba\source\repos\PrimaAplicación\obj\Debug\PrimaAplicación.vbproj.AssemblyReference.cache
+C:\Users\Carba\source\repos\PrimaAplicación\obj\Debug\PrimaAplicación.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Carba\source\repos\PrimaAplicación\obj\Debug\PrimaAplicación.Resources.resources
+C:\Users\Carba\source\repos\PrimaAplicación\obj\Debug\PrimaAplicación.vbproj.GenerateResource.cache
+C:\Users\Carba\source\repos\PrimaAplicación\obj\Debug\PrimaAplicación.vbproj.CoreCompileInputs.cache
+C:\Users\Carba\source\repos\PrimaAplicación\obj\Debug\PrimaAplicación.exe
+C:\Users\Carba\source\repos\PrimaAplicación\obj\Debug\PrimaAplicación.xml
+C:\Users\Carba\source\repos\PrimaAplicación\obj\Debug\PrimaAplicación.pdb
